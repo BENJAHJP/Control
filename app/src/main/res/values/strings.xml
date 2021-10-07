@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Control</string>
+
+    <!-- authentication strings -->
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign up</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sendResetEmailLink">send reset email link</string>
+    <string name="forgotPasswordLink">forgot password ?</string>
+    <string name="repeatPassword">repeat password</string>
+
+
+</resources>
